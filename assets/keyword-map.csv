@@ -1,0 +1,6 @@
+﻿slug,目标词,搜索意图,模板类型,父页,状态,备注
+dog-coloring-pages,dog coloring pages,informational,hub,/,published,二级聚合页
+dog-coloring-pages/cute,cute dog coloring pages,informational,article,/dog-coloring-pages/,published,
+dog-coloring-pages/realistic,realistic dog coloring pages,informational,article,/dog-coloring-pages/,pending,
+coloring-page-generator,ai coloring page generator,transactional,build,/,published,工具页
+coloring-page-templates,coloring page templates,commercial,template,/,merged,已并入 /
