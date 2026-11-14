@@ -78,3 +78,9 @@ Use the checker as a data-collection tool, not as the final verdict. A passing e
 ## Origin
 
 Extracted from a personal WorkBuddy skill library and cleaned for public release: machine-specific absolute paths were replaced with portable ones, backup and build artifacts were excluded, and no credentials are included.
+
+## Companion site
+
+A first-person account of why this specification exists, what it checks and who should read it is published at [WorkBuddy Central: SEO Dev Spec](https://workbuddycentral.com/seo-dev-spec/). This repository remains the rule source; that page records the reasoning, not a second copy of the rules.
+
+WorkBuddy Central is an independent, unofficial documentation site. It is not affiliated with WorkBuddy or Tencent.
